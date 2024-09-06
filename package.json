@@ -4,7 +4,7 @@
   "homepage": "https://twangpodorji.github.io/portfolio",
   "private": true,
   "engines": {
-    "node": "20.x"
+    "node": "18.20.4"
   },
   "dependencies": {
     "@babel/core": "^7.25.2",
